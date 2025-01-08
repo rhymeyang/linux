@@ -44,11 +44,137 @@ export default defineUserConfig({
           text: '0.0 Linux Pro Introduction',
           collapsable: false,
           children: [
-            '/00/',
+            '/00/01.md',
+            '/00/02.md'
+          ]
+        },
+        {
+          text: '1.0 Linux Overview',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '2.0 Using Linux',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '3.0 Installation and Localization',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '4.0 Boot and Shutdown',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '5.0 Graphical User Interfaces and Desktops',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '6.0 Software Installation',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '7.0 Users and Groups',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '8.0 Disk and File System Management',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '9.0 Hardware Installation',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '10.0 Processes and System Services',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '11.0 System Monitoring',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '12.0 Networking',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '13.0 Cloud, Containers, and Virtualization',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '14.0 Scripting and Automation',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: '15.0 Security',
+          collapsable: false,
+          children: [
 
           ]
         },
 
+        {
+          text: 'A0 Linux Pro - Practice Exams',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: 'B0 Linux Pro - CompTIA Linux+',
+          collapsable: false,
+          children: [
+
+          ]
+        },
+        {
+          text: 'Glossary',
+          collapsable: false,
+          children: [
+
+          ]
+        },
       ]
     },
   }),
