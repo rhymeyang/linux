@@ -59,7 +59,7 @@ export default defineUserConfig({
           text: '2.0 Using Linux',
           collapsable: false,
           children: [
-
+            '/02/01.md'
           ]
         },
         {
