@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.15" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme')
+      const systemDarkMode =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (userMode === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (userMode === 'dark' || systemDarkMode) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>Security Pro</title><meta name="description" content="Notes">
+    <link rel="preload" href="/linux/assets/style-DY6JTdq5.css" as="style"><link rel="stylesheet" href="/linux/assets/style-DY6JTdq5.css">
+    <link rel="modulepreload" href="/linux/assets/app-BxNhgjps.js"><link rel="modulepreload" href="/linux/assets/404.html-DVGYUtCt.js">
+    <link rel="prefetch" href="/linux/assets/index.html-DSciU2pP.js" as="script"><link rel="prefetch" href="/linux/assets/01.html-J_1Bs_Zv.js" as="script"><link rel="prefetch" href="/linux/assets/02.html-cHLfEXBD.js" as="script"><link rel="prefetch" href="/linux/assets/temp.html-D_QMPQw8.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-463c2c5d><main class="page" data-v-463c2c5d><div class="theme-default-content" vp-content data-v-463c2c5d><h1 data-v-463c2c5d>404</h1><blockquote data-v-463c2c5d>Looks like we&#39;ve got some broken links.</blockquote><a class="route-link" href="/linux/" data-v-463c2c5d>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/linux/assets/app-BxNhgjps.js" defer></script>
+  </body>
+</html>
