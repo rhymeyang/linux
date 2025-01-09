@@ -78,14 +78,18 @@ export default defineUserConfig({
           text: '3.0 Installation and Localization',
           collapsable: false,
           children: [
-
+            '/03/01.md',
+            '/03/02.md',
+            '/03/03.md'
           ]
         },
         {
           text: '4.0 Boot and Shutdown',
           collapsable: false,
           children: [
-
+            '/04/01.md',
+            '/04/02.md',
+            '/04/03.md'
           ]
         },
         {
