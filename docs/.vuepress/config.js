@@ -89,7 +89,9 @@ export default defineUserConfig({
           children: [
             '/04/01.md',
             '/04/02.md',
-            '/04/03.md'
+            '/04/03.md',
+            '/04/04.md',
+            '/04/05.md'
           ]
         },
         {
