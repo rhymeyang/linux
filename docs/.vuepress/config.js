@@ -98,7 +98,10 @@ export default defineUserConfig({
           text: '5.0 Graphical User Interfaces and Desktops',
           collapsable: false,
           children: [
-
+            '/05/01.md',
+            '/05/02.md',
+            '/05/03.md',
+            '/05/04.md'
           ]
         },
         {
