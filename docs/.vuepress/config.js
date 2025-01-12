@@ -158,7 +158,10 @@ export default defineUserConfig({
           text: '10.0 Processes and System Services',
           collapsable: false,
           children: [
-
+            '/10/01.md',
+            '/10/02.md',
+            '/10/03.md',
+            '/10/04.md'
           ]
         },
         {
