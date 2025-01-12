@@ -222,7 +222,7 @@ export default defineUserConfig({
     },
   }),
   lang: 'zh-CN',
-  title: "Security Pro",
+  title: "Linux Pro",
   description: 'Notes',
 })
 
