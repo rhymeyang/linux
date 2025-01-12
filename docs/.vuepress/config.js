@@ -118,21 +118,40 @@ export default defineUserConfig({
           text: '7.0 Users and Groups',
           collapsable: false,
           children: [
-
+            '/07/01.md',
+            '/07/02.md',
+            '/07/03.md',
+            '/07/04.md'
           ]
         },
         {
           text: '8.0 Disk and File System Management',
           collapsable: false,
           children: [
-
+            '/08/01.md',
+            '/08/02.md',
+            '/08/03.md',
+            '/08/04.md',
+            '/08/05.md',
+            '/08/06.md',
+            '/08/07.md',
+            '/08/08.md',
+            '/08/09.md',
+            '/08/10.md',
+            '/08/11.md',
+            '/08/12.md',
+            '/08/13.md',
+            '/08/14.md',
+            '/08/15.md',
           ]
         },
         {
           text: '9.0 Hardware Installation',
           collapsable: false,
           children: [
-
+            '/09/01.md',
+            '/09/02.md',
+            '/09/03.md'
           ]
         },
         {
