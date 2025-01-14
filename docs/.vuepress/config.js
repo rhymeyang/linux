@@ -230,7 +230,8 @@ export default defineUserConfig({
           text: 'A0 Linux Pro - Practice Exams',
           collapsable: false,
           children: [
-
+            '/A0/A1.md',
+            '/A0/A2.md'
           ]
         },
         {
