@@ -205,7 +205,7 @@ export default defineUserConfig({
             '/14/02.md',
             '/14/03.md',
             '/14/04.md',
-            '/14x/05.md'
+            '/14/05.md'
           ]
         },
         {
