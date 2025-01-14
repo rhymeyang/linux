@@ -35,7 +35,7 @@ export default defineUserConfig({
       '/': [
         {
           text: 'Info',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/',
           ],
@@ -168,35 +168,61 @@ export default defineUserConfig({
           text: '11.0 System Monitoring',
           collapsable: false,
           children: [
-
+            '/11/01.md',
+            '/11/02.md'
           ]
         },
         {
           text: '12.0 Networking',
           collapsable: false,
           children: [
-
+            '/12/01.md',
+            '/12/02.md',
+            '/12/03.md',
+            '/12/04.md',
+            '/12/05.md',
+            '/12/06.md',
+            '/12/07.md',
+            '/12/08.md'
           ]
         },
         {
           text: '13.0 Cloud, Containers, and Virtualization',
           collapsable: false,
           children: [
-
+            '/13/01.md',
+            '/13/02.md',
+            '/13/03.md',
+            '/13/04.md',
+            '/13/05.md'
           ]
         },
         {
           text: '14.0 Scripting and Automation',
           collapsable: false,
           children: [
-
+            '/14/01.md',
+            '/14/02.md',
+            '/14/03.md',
+            '/14/04.md',
+            '/14x/05.md'
           ]
         },
         {
           text: '15.0 Security',
           collapsable: false,
           children: [
-
+            '/15/01.md',
+            '/15/02.md',
+            '/15/03.md',
+            '/15/04.md',
+            '/15/05.md',
+            '/15/06.md',
+            '/15/07.md',
+            '/15/08.md',
+            '/15/09.md',
+            '/15/10.md',
+            '/15/11.md'
           ]
         },
 
